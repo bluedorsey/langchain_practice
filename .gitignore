@@ -4,3 +4,4 @@ __pycache__/
 venv/
 Phi-3.5-mini-instruct-Q4_K_M.gguf
 gemma-1.1-2b-it-cpu-int4.bin
+small projects/feedback_reply_system/
